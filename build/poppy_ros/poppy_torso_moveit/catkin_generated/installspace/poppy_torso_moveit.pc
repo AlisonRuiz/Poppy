@@ -1,0 +1,8 @@
+prefix=/tf/user/ros/poppy_ws/install
+
+Name: poppy_torso_moveit
+Description: Description of poppy_torso_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

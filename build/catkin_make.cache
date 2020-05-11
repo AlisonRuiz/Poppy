@@ -1,0 +1,2 @@
+poppy_ros/poppy_torso_control:poppy_ros/poppy_torso_description:poppy_ros/poppy_torso_gazebo:poppy_ros/poppy_torso_moveit
+-DCATKIN_DEVEL_PREFIX=/tf/user/ros/poppy_ws/devel -DCMAKE_INSTALL_PREFIX=/tf/user/ros/poppy_ws/install -G Unix Makefiles

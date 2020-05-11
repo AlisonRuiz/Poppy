@@ -1,0 +1,8 @@
+prefix=/tf/user/ros/poppy_ws/devel
+
+Name: poppy_torso_control
+Description: Description of poppy_torso_control
+Version: 0.0.0
+Cflags: -I/tf/user/ros/poppy_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: moveit_core moveit_ros_planning_interface

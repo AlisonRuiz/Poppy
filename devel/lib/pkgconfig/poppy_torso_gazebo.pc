@@ -1,0 +1,8 @@
+prefix=/tf/user/ros/poppy_ws/devel
+
+Name: poppy_torso_gazebo
+Description: Description of poppy_torso_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

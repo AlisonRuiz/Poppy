@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /tf/user/ros/poppy_ws/devel/setup.sh
